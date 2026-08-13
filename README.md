@@ -6,7 +6,7 @@
 
 **AI & Data Engineering · Offshore Delivery Lead**
 
-<a href="https://github.com/GaneshSDM"><img src="https://img.shields.io/badge/GitHub-GaneshSDM-181717?style=flat&logo=github" /></a>
+<a href="https://github.com/ganeshsundaresan"><img src="https://img.shields.io/badge/GitHub-GaneshSDM-181717?style=flat&logo=github" /></a>
 <a href="https://www.linkedin.com/in/nashsundaresan/"><img src="https://img.shields.io/badge/LinkedIn-nashsundaresan-0A66C2?style=flat&logo=linkedin" /></a>
 
 </div>
