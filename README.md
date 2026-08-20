@@ -104,7 +104,7 @@ I build production data platforms and agentic AI systems — and lead the offsho
 ---
 
 ## 📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GaneshSDM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/> <img src="https://streak-stats.demolab.com/?user=GaneshSDM&theme=tokyonight&hide_border=true" alt="Streak stats" height="165"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GaneshSDM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/> <img src="https://streak-stats.demolab.com/?user=GaneshSDM&theme=tokyonight&hide_border=true" alt="Streak stats" height="165"/>
 
 </div>
 
