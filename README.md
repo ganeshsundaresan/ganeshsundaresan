@@ -116,7 +116,7 @@ I build production data platforms and agentic AI systems — and lead the offsho
 
 <div align="center">
 
-📩 **Open to Senior Data Engineer / AI Engineer roles.** Reach me at [gsundar4121@gmail.com](mailto:gsundar4121@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nashsundaresan/).
+📩 **Open to AI Engineer / Data Engineer / Data Scientist roles.** Reach me at [gsundar4121@gmail.com](mailto:gsundar4121@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nashsundaresan/).
 
 <sub>Last refreshed 2026</sub>
 
