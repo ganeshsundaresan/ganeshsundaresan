@@ -13,6 +13,10 @@
 
 **MSc Data Science & Communications, University of Liverpool (2026–27)** &nbsp;|&nbsp; Claude Certified Architect – Foundations (2026)
 
+<br />
+
+🌐 **[Portfolio website](https://ganeshsundaresan.github.io/ganeshsundaresan/)** — animated personal site (served from `/docs` via GitHub Pages)
+
 </div>
 
 ---
